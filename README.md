@@ -32,7 +32,7 @@ The objective is to improve data quality by identifying and handling missing val
 
 | File | Description |
 |---|---|
-| `Task_1_Data_Cleaning.ipynb` | Jupyter Notebook containing the cleaning process |
+| `Data-Cleaning.ipynb` | Jupyter Notebook containing the cleaning process |
 | `cleaned_marketing_campaign.csv` | Final cleaned dataset |
 
 ## Results
